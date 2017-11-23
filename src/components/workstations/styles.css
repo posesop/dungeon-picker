@@ -1,0 +1,27 @@
+.workstation-list {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.workstation-list li {
+  float: left;
+  width: 33.33%;
+}
+
+.workstation-item {
+  height: 50px;
+  width: 100%;
+  background-color: lightcoral;
+  border: 1px white solid;
+}
+
+.workstation-item.free {
+  background-color: lightgreen;
+}
+
+.workstation-item.disabled {
+  background-color: lightgray;
+  pointer-events: none;
+}

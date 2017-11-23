@@ -1,0 +1,39 @@
+[
+    {
+       "id": "0",
+       "free": true,
+       "availableForBooking": true,
+       "location": [0, 0]
+    },
+    {
+       "id": "1",
+       "free": true,
+       "availableForBooking": false,
+       "location": [0, 1]
+    },
+    {
+       "id": "2",
+       "free": true,
+       "availableForBooking": true,
+       "location": [0, 2]
+    },
+    {
+       "id": "3",
+       "free": false,
+       "availableForBooking": true,
+       "location": [1, 0]
+    },
+    {
+       "id": "4",
+       "free": false,
+       "availableForBooking": true,
+       "location": [2, 1]
+    },
+    {
+       "id": "5",
+       "free": true,
+       "availableForBooking": true,
+       "location": [2, 2]
+    }
+    
+]
